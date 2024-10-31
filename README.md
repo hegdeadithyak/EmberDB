@@ -1,7 +1,7 @@
 # EmberDB
 
 ## Overview
-**EmberDB** is a minimalist database built from scratch to explore essential database concepts like persistence, indexing, and concurrency. This project is inspired by the guide [Build Your Own Database From Scratch](https://build-your-own.org) and is designed as a hands-on learning tool for those curious about database internals.
+**EmberDB** is a minimalist database built from scratch to explore essential database concepts like persistence, indexing, and concurrency.
 
 ## Features
 - **Persistence**: Data storage mechanisms ensuring data is saved and recoverable across sessions.
